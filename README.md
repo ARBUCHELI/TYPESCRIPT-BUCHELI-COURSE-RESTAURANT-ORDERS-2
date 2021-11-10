@@ -13,4 +13,4 @@
 * Understanding of the tsconfig.json file: The tsconfig.json file allows you to specify the root level files and the compiler options that requires to compile a TypeScript project. The presence of this file in a directory specifies that the said directory is the TypeScript project root.
 * import and export of modules.
 * import and export of complex types.
-* 
+
